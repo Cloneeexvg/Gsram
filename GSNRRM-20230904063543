@@ -1,0 +1,24 @@
+1.pkg up -y;pkg install git -y;pkg install wget -y;pkg install curl -y
+#64 BIT
+2. git clone https://github.com/White9shadow/no-root-ram-booster
+
+3. cd no-root-ram-booster
+
+4. chmod +x GSNRRM64
+
+5. ./GSNRRM64
+
+#32BIT 
+
+1.pkg up -y;pkg install git -y;pkg install wget -y;pkg install curl -y
+
+2. git clone https://github.com/White9shadow/no-root-ram-booster
+
+3. cd no-root-ram-booster
+
+4. chmod +x GSNRRM32
+
+5. ./GSNRRM32
+
+
+enjoy
